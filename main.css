@@ -1,0 +1,22 @@
+/* makes the border of the body, as well as the colors */
+body{
+    background-color: black;
+    color:chartreuse;
+    padding: 5rem 5rem 5rem 5rem;
+    border: 2rem solid chartreuse;
+    height: 43rem;
+}
+
+/* adds color changes to the buttons as well as adding a border */
+button{
+    border: solid chartreuse 5px;
+    color: chartreuse;
+    background-color: black;
+    margin-left: 30%;
+    cursor: pointer;
+}
+
+/* puts the div away from the top of the body tag */
+#box{
+    margin-top: 20rem;
+}
